@@ -13,7 +13,7 @@ export default function Home() {
         <div className="flex flex-col gap-4 w-full">
           <Button url="https://www.linkedin.com/in/fernando-utizi-2a72a3233/" name="Linkedin" ></Button>
           <Button url="https://ferutizi.github.io/Portfolio/" name="Portfolio"></Button>
-          <Button url="https://media.licdn.com/dms/document/media/D4D2DAQGdaet3CbsLqw/profile-treasury-document-pdf-analyzed/0/1707874038463?e=1712188800&v=beta&t=-Erd4EloKL_1a4VOMQGMjmImmTo5owjkx8GipUBlWnE" name="Online CV" ></Button>
+          <Button url="https://drive.google.com/file/d/1wZD1FW_PkvLFE63DBAxVKK1TONldZMqB/view?usp=drive_link" name="Online CV" ></Button>
           <Button url="https://github.com/ferutizi" name="Github" ></Button>
         </div>
       </article>
